@@ -1,6 +1,7 @@
 import ReactDOM from "react-dom";
 import React from "react";
-import UserSearch from "./state/userSearch";
+import EventComponent from "./events/eventComponent";
+import UserSearch from "./refs/userSearch";
 
 const App = () => {
   return (
